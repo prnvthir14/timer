@@ -1,0 +1,1 @@
+'Hi, this is an implementaiont of a timer using setTimeOut'
